@@ -5,7 +5,9 @@
     'summary': 'System for managing employee KPIs and performance scoring',
     'category': 'Human Resources',
     'author': 'Tsadiku k',
-    'website': 'https://odooethiopia.com',
+    'website': 'https://odooethiopia.com', 
+    'maintainer': 'tsadikuk@gmail.com',
+    
     'depends': ['hr', 'hr_attendance','hr_appraisal'],
     'data': [
         'security/ir.model.access.csv',
